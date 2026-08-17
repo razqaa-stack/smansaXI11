@@ -1,0 +1,249 @@
+{
+  "metadata": {
+    "kelas": "XI.11",
+    "jumlah_siswa": 40,
+    "updated": "2026-08-17T08:17:36.352Z"
+  },
+  "siswa": [
+    {
+      "id": 1786954549370,
+      "nama": "ABDUL HANNAN",
+      "nohp": "085364487991",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549371,
+      "nama": "AKAZURA MEISYA",
+      "nohp": "087796538714",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549372,
+      "nama": "AKSEL RAZIQ ANANTHA",
+      "nohp": "083180513923",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549373,
+      "nama": "ALFATHIR SALAM MELFIN",
+      "nohp": "0895602496796",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549374,
+      "nama": "ANDIKA AZHAR",
+      "nohp": "082389049139",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549375,
+      "nama": "ANJHU NATANAEL ARSE PURBA",
+      "nohp": "085274656800",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549376,
+      "nama": "APRILIO DAVANO",
+      "nohp": "081267016463",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549377,
+      "nama": "ASHILA PUTRI ALINKA",
+      "nohp": "085274555531",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549378,
+      "nama": "ATIKA TRI WULANDARI",
+      "nohp": "085225184647",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549379,
+      "nama": "ATIKAH KHAIRUNNISA",
+      "nohp": "089643738844",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549380,
+      "nama": "AULIA SYAFITRI",
+      "nohp": "085263212311",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549381,
+      "nama": "BANGKIT",
+      "nohp": "081397821086",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549382,
+      "nama": "BUNGA EDELWEIS",
+      "nohp": "085236889264",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549383,
+      "nama": "CHARISSA AURELIA",
+      "nohp": "082166575666",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549384,
+      "nama": "FAHIM MAULANA OPENDI",
+      "nohp": "083809474623",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549385,
+      "nama": "FAHRINA AVRILIA AZZAHRA",
+      "nohp": "082283793975",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549386,
+      "nama": "FAREL MEYFITO",
+      "nohp": "085263827959",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549387,
+      "nama": "GALUH PUTRA PERDANA",
+      "nohp": "085363794465",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549388,
+      "nama": "KEVIN SATIA MARKO",
+      "nohp": "083801766108",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549389,
+      "nama": "KHAIRA APRILIA",
+      "nohp": "083160427316",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549390,
+      "nama": "LATIFA HANA SALSABILA",
+      "nohp": "082286949720",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549391,
+      "nama": "LUTFILLA ARFA",
+      "nohp": "083188342240",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549392,
+      "nama": "MARSYA PUTRI AMIRAH",
+      "nohp": "082384715421",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549393,
+      "nama": "MUHAMMAD BAGUS MUSTAQIM",
+      "nohp": "085766177284",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549394,
+      "nama": "MUHAMMAD DATIL",
+      "nohp": "083162100189",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549395,
+      "nama": "MUHAMMAD REVANO",
+      "nohp": "083183502084",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549396,
+      "nama": "MUHAMMAD REZKY HIDAYAH",
+      "nohp": "082334317575",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549397,
+      "nama": "MUHAMMAD SUKRI",
+      "nohp": "082171635605",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549398,
+      "nama": "NIKITA IZATURAHMI",
+      "nohp": "083183905111",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549399,
+      "nama": "NOVAL RAHMATULLAH",
+      "nohp": "089618767054",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549400,
+      "nama": "PUTRI ARYUNITA",
+      "nohp": "089524498432",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549401,
+      "nama": "SALSABILA RAHMADATUL AYSY",
+      "nohp": "081364055855",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549402,
+      "nama": "SAMUDERA RHAZIF ILYAS",
+      "nohp": "085263137626",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549403,
+      "nama": "SHIELLA FEBRIANI PUTRI",
+      "nohp": "0895347098772",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549404,
+      "nama": "SITI NUR AFFIZA",
+      "nohp": "081372218578",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549405,
+      "nama": "STERY ALGHANI",
+      "nohp": "082391300755",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549406,
+      "nama": "TSANIYA AINI",
+      "nohp": "081363959623",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549407,
+      "nama": "VIONA PUTI AFIZA",
+      "nohp": "083184693023",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549408,
+      "nama": "VIRA AMELYA",
+      "nohp": "083177732611",
+      "kelas": "XI.11"
+    },
+    {
+      "id": 1786954549409,
+      "nama": "ZAHIRAH HILYATA ADZKIA",
+      "nohp": "081282519354",
+      "kelas": "XI.11"
+    }
+  ]
+}
